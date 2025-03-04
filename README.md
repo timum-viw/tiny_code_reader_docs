@@ -202,6 +202,10 @@ guide, tutorial, or GitHub repo featured here, please send us a pull request
 adding it to this section of the documentation. We also collect maker guides at
 [our Hackster project hub](https://www.hackster.io/useful-sensors/projects).
 
+#### ESPHome component
+
+External component for the [ESPHome](https://esphome.io) platform https://github.com/timum-viw/esphome-tcr.
+
 ## Privacy
 
 This module includes an image sensor, and we want to make sure that this doesn’t
